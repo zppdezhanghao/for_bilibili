@@ -1,0 +1,100 @@
+title=玩转win键，你也是电脑高手。,upname=电脑配置单,view=548525,danmaku=411,reply=1490,favorite=30453,coin=5130,share=559,like=17166,dislike=0
+title=【硬件科普】全网最简洁易懂的OLED与LCD屏幕工作原理与优劣科普,upname=硬件茶谈,view=225902,danmaku=3875,reply=1594,favorite=22741,coin=53632,share=4192,like=44156,dislike=0
+title=「小白测评」新iPhoneSE 云体验 苹果都杀到三千元档了！,upname=小白测评,view=955734,danmaku=13639,reply=10104,favorite=2469,coin=2607,share=5057,like=26394,dislike=0
+title=「科技美学」关于iPhone SE2的十大疑问，购买前你必须要了解的信息,upname=科技美学,view=995725,danmaku=62425,reply=9865,favorite=4073,coin=8317,share=4219,like=30915,dislike=0
+title=【小泽】苹果新iPhone SE来了！A13现在仅售3299,upname=钟文泽,view=895533,danmaku=5844,reply=8809,favorite=1508,coin=2175,share=3781,like=19533,dislike=0
+title=【无聊的开箱】一加 8 Pro真机上手！暴力测试120Hz屏幕，我愿称之为以假乱真！,upname=无聊的开箱,view=399325,danmaku=24230,reply=11232,favorite=7306,coin=18473,share=4585,like=37380,dislike=0
+title=复古怀旧的播放器和耳机，你都见过几个？【BB Time第267期】,upname=TESTV官方频道,view=309367,danmaku=6547,reply=2167,favorite=6575,coin=25372,share=1308,like=31306,dislike=0
+title=【爱搞机】一加 8 Pro 评测：诚意满满的升级之作！？,upname=爱搞机,view=372189,danmaku=4917,reply=1297,favorite=5808,coin=27820,share=3268,like=31827,dislike=0
+title=【加个朋友】罗永浩专访一加手机CEO刘作虎：看见安静的力量。,upname=一加手机,view=303253,danmaku=7520,reply=1885,favorite=5741,coin=5640,share=4378,like=14087,dislike=0
+title=【山新】疫情下，配音演员怎么开工录音？,upname=山新,view=255054,danmaku=1372,reply=1183,favorite=5524,coin=9549,share=744,like=41755,dislike=0
+title=【何同学】一只鸽子的自白,upname=老师好我叫何同学,view=4650465,danmaku=89329,reply=22883,favorite=211172,coin=841194,share=33638,like=905797,dislike=0
+title=【短的发布会】春夏新款，荣耀30 Pro时尚单品秀出中杯大杯超大杯,upname=短的发布会,view=366579,danmaku=2861,reply=1789,favorite=1530,coin=3810,share=874,like=28688,dislike=0
+title=【1080P】小罗伯特·唐尼带你玩转一加8/8Pro系列（广告宣传片）,upname=TimberDC,view=403184,danmaku=663,reply=791,favorite=3173,coin=538,share=6855,like=12303,dislike=0
+title=要不是太大 我想挂脖子上,upname=STN工作室,view=226633,danmaku=8689,reply=2436,favorite=3232,coin=7769,share=423,like=15632,dislike=0
+title=【小白开箱】起售价2999！荣耀30pro开箱体验！是什么让人直呼真香？,upname=小白开箱,view=229620,danmaku=5059,reply=1618,favorite=1551,coin=3501,share=811,like=22798,dislike=0
+title=它让我的iPhone变成了备用机 一加 8 Pro评测,upname=轻电科技,view=169087,danmaku=5834,reply=9600,favorite=4900,coin=9910,share=713,like=8365,dislike=0
+title=苹果iPhone SE 2020款 2两,upname=那岩KJMX,view=265069,danmaku=2483,reply=2028,favorite=256,coin=274,share=918,like=4987,dislike=0
+title=交了几十块钱智商税为大家体验一下激光键盘,upname=小高强行不亏,view=555571,danmaku=1194,reply=2451,favorite=1060,coin=1053,share=241,like=23509,dislike=0
+title=自如Talk丨聊聊一加 8 系列,upname=ZEALER官方频道,view=216239,danmaku=9228,reply=2351,favorite=1712,coin=5322,share=1213,like=7656,dislike=0
+title=【享拆】一加 8 Pro 拆解：一直高刷一直爽~,upname=唯颂科技XYZONE,view=255923,danmaku=3106,reply=1167,favorite=1366,coin=3302,share=1621,like=12363,dislike=0
+title=「花生説」华为才是最大卖点【华为P40使用报告（对比小米10）】,upname=花生説,view=180266,danmaku=6636,reply=3422,favorite=4909,coin=20901,share=932,like=20507,dislike=0
+title=我被诈骗走了一台MacBook 在闲鱼与骗子斗智斗勇的全过程,upname=壹玖伍柒,view=469345,danmaku=14260,reply=4093,favorite=9146,coin=20802,share=3172,like=37066,dislike=0
+title=震惊某国产之光华为，名曰扶持国产屏幕，实则利润最大化割韭菜，大多使用周冬雨排列,upname=华为三星小米,view=339703,danmaku=2448,reply=8204,favorite=1306,coin=839,share=1455,like=4715,dislike=0
+title=【装机猿】新航班！钱只够买1样，升级CPU还是显卡？,upname=远古时代装机猿,view=233866,danmaku=2467,reply=1200,favorite=1622,coin=7480,share=408,like=14820,dislike=0
+title=【爱否速描】一加8 Pro，上半年的「压轴大戏」？,upname=爱否科技FView,view=171862,danmaku=1976,reply=1034,favorite=1105,coin=3432,share=548,like=8029,dislike=0
+title=1100元装一台30万跑分2K画质高特效吃鸡的电脑，还能剪辑视频当UP。应是千元级最强配置之一,upname=AS极客,view=450024,danmaku=1868,reply=2681,favorite=27264,coin=44680,share=6263,like=52777,dislike=0
+title=忍痛卖掉自己心爱的电脑，只为偿还债务，希望有人能买走，希望能卖给一个能好好利用它的人,upname=过期的主人,view=228000,danmaku=922,reply=2229,favorite=1549,coin=7848,share=479,like=15354,dislike=0
+title=Q\u0026A胶片相机|百元入门到万元哈苏 ?男友都用什么给我拍照？,upname=晁然然然然,view=71986,danmaku=1592,reply=784,favorite=4376,coin=4732,share=976,like=13144,dislike=0
+title=iphone se 2代真机上手了,upname=数码集中营,view=1592604,danmaku=1124,reply=1039,favorite=1001,coin=340,share=1278,like=1996,dislike=0
+title=2分钟看完一加8系列：120Hz+2K屏幕，Pro版最贵卖7000！,upname=鹅板凳,view=154466,danmaku=239,reply=746,favorite=136,coin=105,share=659,like=2031,dislike=0
+title=【小月吐槽】新iPhone SE，就这？？？？,upname=鲁大师官方,view=200535,danmaku=1323,reply=1451,favorite=836,coin=1869,share=339,like=9668,dislike=0
+title=7000多买的华为手机，换屏维修要价1600，回收却只能回收200,upname=爱旅行的巧克力吖,view=196915,danmaku=1532,reply=3134,favorite=318,coin=262,share=131,like=2832,dislike=0
+title=外星人笔记本1080显卡花屏，维修厮直接干了它3次后跑路,upname=笔记本维修厮,view=126189,danmaku=1141,reply=528,favorite=544,coin=2033,share=202,like=6961,dislike=0
+title=一加8Pro开箱上手体验,upname=Tech2riderzz,view=146859,danmaku=313,reply=276,favorite=78,coin=2,share=212,like=376,dislike=0
+title=【MKBHD】一加8 Pro测评：终于是旗舰！,upname=空管不会飞,view=137709,danmaku=625,reply=490,favorite=213,coin=47,share=772,like=699,dislike=0
+title=不要买ipad pro 你的下一台电脑 只能是一台电脑 看完省8000,upname=林捂捂,view=229001,danmaku=1283,reply=1291,favorite=6150,coin=16643,share=1483,like=22284,dislike=0
+title=发现所谓的散热之王，确实厉害！,upname=Vancentgpla,view=237685,danmaku=46,reply=386,favorite=129,coin=15,share=18,like=773,dislike=0
+title=【顾俊】这可能是有史以来最丧心病狂的相机 —— 尼康 P1000！,upname=摄影师顾俊,view=112879,danmaku=3988,reply=647,favorite=1056,coin=1665,share=801,like=5127,dislike=0
+title=一加8Pro快速上手  米boy看了都叛变 对比小米10Pro 华为P40Pro【字幕君】,upname=字幕君GOUBA,view=129467,danmaku=1309,reply=559,favorite=241,coin=710,share=185,like=3746,dislike=0
+title=只要3299，这是iPhone SE2,upname=辣雞社长,view=140837,danmaku=230,reply=535,favorite=146,coin=26,share=174,like=601,dislike=0
+title=【iPhone se 2】iPhone 9它来了，概率100%，真香警告欢迎打脸！,upname=鱼雁开箱,view=132279,danmaku=284,reply=879,favorite=108,coin=107,share=86,like=832,dislike=0
+title=这键盘让我人生第一次退货,upname=正蓝之夕成,view=369476,danmaku=36,reply=526,favorite=224,coin=27,share=67,like=3783,dislike=0
+title=“超大杯”的全能旗舰，荣耀30 Pro+上手体验,upname=IT之家,view=118823,danmaku=766,reply=1183,favorite=176,coin=125,share=385,like=1768,dislike=0
+title=3500元的6核轻薄本？ACER传奇14锐龙4000系列笔记本开箱【开箱翼闻录第8期】,upname=翼王,view=106241,danmaku=1989,reply=507,favorite=1070,coin=4092,share=599,like=7745,dislike=0
+title=【科技数码研究室】一加8和一加8pro对比深度评测，到底哪个更值得入手！,upname=科技数码研究室,view=157468,danmaku=143,reply=58,favorite=20,coin=4,share=76,like=345,dislike=0
+title=【逍遥策】锤爆华为P40后续，官方回复来了！,upname=Gamer逍遥,view=159492,danmaku=3433,reply=2015,favorite=1174,coin=4112,share=535,like=8189,dislike=0
+title=彩蜂 北极大冒险（下）-摄影器材大公开：拍摄极光秘传技分享,upname=彩蜂摄影生活杂志,view=50219,danmaku=895,reply=283,favorite=2160,coin=7221,share=499,like=6244,dislike=0
+title=六千块的华为 P40 Pro，屏幕像两千块的手机？【Kaisam吴】,upname=Kaisam吴,view=82055,danmaku=1317,reply=2167,favorite=1054,coin=3110,share=483,like=4704,dislike=0
+title=【MKBHD中字】一加8 Pro上手评测：终于是一台“真”旗舰,upname=MKBHD搬运站,view=101163,danmaku=953,reply=586,favorite=364,coin=261,share=1115,like=1931,dislike=0
+title=【审美积累】孤独寂寞感的营造｜摄影师Paolo Ｂarretta,upname=新镜后摄影,view=31602,danmaku=79,reply=135,favorite=4245,coin=1255,share=275,like=2687,dislike=0
+title=26种在家拍“酷”照片的方式,upname=YouTube拍照摄影Vlog,view=235842,danmaku=1042,reply=341,favorite=15261,coin=1410,share=1302,like=14120,dislike=0
+title=连我妈都听的懂！这才叫摄影减法！看完就超越93%的摄影师！,upname=nG家的猫,view=73790,danmaku=1440,reply=338,favorite=6980,coin=8964,share=595,like=10573,dislike=0
+title=[脑洞大开]OPPO Ace 2 以船新方式呈现 | OPPO Ace 2+发布啦,upname=dyxDean,view=80201,danmaku=122,reply=448,favorite=363,coin=706,share=148,like=4154,dislike=0
+title=15款神级软件，电脑使用体验提升2000%,upname=H韩长官,view=119068,danmaku=579,reply=554,favorite=15526,coin=5122,share=375,like=7094,dislike=0
+title=2020年初电脑配件和配置单推荐,upname=喵喵折App,view=1966588,danmaku=15459,reply=6270,favorite=173604,coin=160297,share=27844,like=156221,dislike=0
+title=众仪万用表助力修复保外寄送小米10,upname=艾奥科技,view=38969,danmaku=610,reply=272,favorite=6262,coin=2241,share=2611,like=8863,dislike=0
+title=【官方双语】3D打印面罩 日产300件！#linus谈科技,upname=LinusTechTips,view=76422,danmaku=663,reply=653,favorite=410,coin=832,share=264,like=3489,dislike=0
+title=我的新手机终于到货了！看看像素如何！,upname=ChengchengFANS,view=660329,danmaku=2679,reply=2481,favorite=1937,coin=5365,share=2272,like=34890,dislike=0
+title=小米高管揭露麒麟985真实面目，还不如麒麟820,upname=求根问底,view=92078,danmaku=253,reply=936,favorite=137,coin=117,share=75,like=1231,dislike=0
+title=海外包装事件从头就是一场笑话，一场有预谋的“营销”! 一加发布后打尽各路人的脸,upname=蒋晨岚,view=76518,danmaku=388,reply=2722,favorite=421,coin=568,share=196,like=2635,dislike=0
+title=科技美学那岩谈一加8,upname=林某人在此哦,view=159445,danmaku=171,reply=230,favorite=56,coin=12,share=58,like=462,dislike=0
+title=【值不值得买】Iphone SE2 究竟香不香？值不值得买呢,upname=艾晓的辰灰,view=93815,danmaku=410,reply=499,favorite=117,coin=160,share=90,like=1038,dislike=0
+title=iPhone SE 4大亮点卖点总结！Feat.上微博热搜是什么体验？,upname=大耳朵TV,view=73298,danmaku=417,reply=538,favorite=276,coin=765,share=138,like=2751,dislike=0
+title=【硬件简介】四分钟让你对显卡不再犹豫，找到你命中注定的显卡吧！,upname=Hao_Tian_HT,view=56372,danmaku=227,reply=342,favorite=1427,coin=1276,share=55,like=4405,dislike=0
+title=评论区的喷子说我黑心，2600多的成本卖2799是黑心商人,upname=奥特曼电竞装机,view=255610,danmaku=474,reply=1977,favorite=1316,coin=1976,share=112,like=10923,dislike=0
+title=折叠屏历史上最大的笑话！贴个贴纸就当新产品来卖，哥伦比亚毒枭的棺材板要压不住了。,upname=GLAT巩振宁,view=693060,danmaku=863,reply=767,favorite=1567,coin=2244,share=654,like=21925,dislike=0
+title=【假·短的发布会】无敌总经理OPPO ACE2发布会,upname=GeniusTeam,view=74907,danmaku=125,reply=122,favorite=97,coin=255,share=32,like=3783,dislike=0
+title=［新品避坑］［2020年4月］大学生游戏本笔记本电脑推荐及十代酷睿新产品避坑,upname=逆狱。,view=68939,danmaku=488,reply=1458,favorite=1543,coin=1021,share=304,like=2120,dislike=0
+title=中正评测：超轻薄=超卡顿？宏碁新蜂鸟SF313超轻薄笔记本开箱，MX350、3:2比例生产力高分屏,upname=中正评测,view=61398,danmaku=1929,reply=382,favorite=519,coin=3495,share=121,like=5109,dislike=0
+title=iPhoneSE：2020年，还要一部4G手机吗？,upname=虽然但是张黑黑,view=80471,danmaku=779,reply=807,favorite=868,coin=2600,share=250,like=4138,dislike=0
+title=听一下7200转的声音,upname=tocal6,view=512867,danmaku=30,reply=400,favorite=226,coin=26,share=30,like=1020,dislike=0
+title=这十个软件,让你的电脑舒适度提升1400%,upname=飞鱼不在天,view=3620472,danmaku=13221,reply=10422,favorite=605593,coin=286760,share=27287,like=312572,dislike=0
+title=【一加8 对比一加8pro】 1400块到底差在哪？  【机翻】,upname=酥饼搬运,view=81218,danmaku=194,reply=168,favorite=97,coin=17,share=406,like=307,dislike=0
+title=良心UP，免费修显卡是如何盈利的，月入过万分钱是如何做到的,upname=一条会火的咸鱼,view=136768,danmaku=1376,reply=696,favorite=2362,coin=10794,share=94,like=13209,dislike=0
+title=影视飓风纪录片《飓风背后》,upname=iCEcreaM_iii,view=39177,danmaku=205,reply=201,favorite=1811,coin=1775,share=300,like=3018,dislike=0
+title=假如手机用5号电池 苹果手机改用5号电池 出门带几盒电池合适,upname=吃拆玩呗,view=367640,danmaku=2193,reply=1311,favorite=4488,coin=8826,share=2393,like=26657,dislike=0
+title=【审美提升专列002】收集了一春天的温柔 | ins摄影师推荐,upname=彬子_bling,view=51229,danmaku=67,reply=121,favorite=3256,coin=775,share=176,like=2992,dislike=0
+title=11款神级软件，让你的电脑体验提升8800%,upname=漫游挨踢,view=255843,danmaku=728,reply=1090,favorite=38475,coin=13368,share=855,like=18004,dislike=0
+title=为什么我的90hz一加7T还不如两年前iPhone X流畅？,upname=赖震laizhen,view=580658,danmaku=5765,reply=3886,favorite=5945,coin=19616,share=1876,like=33462,dislike=0
+title=狙击手麦克：为了开箱下血本，入手3000元运动相机套装，点赞国货,upname=狙击手麦克,view=137717,danmaku=980,reply=608,favorite=436,coin=711,share=64,like=12190,dislike=0
+title=嘘！千万别告诉我妈这蓝牙音箱一万二 - 7款热门蓝牙音箱横评,upname=不万能的楠哥,view=54959,danmaku=2045,reply=406,favorite=1117,coin=3451,share=261,like=4370,dislike=0
+title=[瑞子]我再也不会买这些沙雕游戏手机了！,upname=瑞子Astor,view=331524,danmaku=1896,reply=1271,favorite=4023,coin=9317,share=219,like=42122,dislike=0
+title=史上最强大的iPad分屏技巧，快看看你学会了几个？,upname=发光的大咚咚,view=44052,danmaku=123,reply=154,favorite=1760,coin=411,share=204,like=1511,dislike=0
+title=不好意思，魅族崛起了,upname=南湖边的蒲公英,view=74880,danmaku=521,reply=948,favorite=439,coin=1076,share=99,like=3057,dislike=0
+title=2分钟发布会｜最强屏幕 手感真爽 一加8系列发布会,upname=资讯100秒,view=75675,danmaku=810,reply=238,favorite=138,coin=243,share=157,like=2485,dislike=0
+title=【一加8Pro 开箱】将视觉、听觉、触觉同时推向顶级的真旗舰，一加仍是那个初心未变的少年,upname=JD大手哥,view=67003,danmaku=731,reply=384,favorite=479,coin=1699,share=196,like=3804,dislike=0
+title=苹果开场动画，引起极度舒适！！！ 一分钟看完所有苹果产品和服务！,upname=牛GOOD真是太好了,view=554172,danmaku=3470,reply=1583,favorite=16064,coin=2929,share=2135,like=27421,dislike=0
+title=乔帮主iPhone2G发布会,upname=沙漠之雕LZ,view=47625,danmaku=1031,reply=439,favorite=1510,coin=257,share=349,like=1462,dislike=0
+title=打着爱国的旗号疯狂敛财，有史以来最缺德的硬件厂商——海康威视,upname=VirtualMOD,view=1758203,danmaku=21875,reply=12881,favorite=45988,coin=168439,share=18905,like=141095,dislike=0
+title=买一加8前记得先来体验一下氢os哦,upname=MilkTalk,view=70952,danmaku=257,reply=687,favorite=1814,coin=964,share=303,like=2159,dislike=0
+title=小米干不翻的P40 Pro - 从小米10换到P40Pro中度体验报告「大刀手绘」（上）,upname=奋斗的王大刀,view=79001,danmaku=845,reply=888,favorite=732,coin=2327,share=87,like=5780,dislike=0
+title=加配还降价，这还是我认识的苹果吗？【2020 MacBook Air拆解测评】,upname=90后科技说,view=68377,danmaku=744,reply=531,favorite=410,coin=439,share=177,like=3068,dislike=0
+title=【OnePlus】一加8对比一加8Pro，轻薄的性能旗舰,upname=简小白-,view=68572,danmaku=115,reply=144,favorite=44,coin=5,share=83,like=128,dislike=0
+title=樱桃：没吃饭吗 弹簧音大点力啊,upname=XCJZ小窗剪烛,view=127311,danmaku=4,reply=83,favorite=59,coin=5,share=9,like=735,dislike=0
+title=【含教程】比双肩包还小的7升ITX核弹小主机，如何塞下i9-9900与黑苹果,upname=玖棱镜IX_PRISM,view=40804,danmaku=325,reply=227,favorite=1249,coin=815,share=151,like=1863,dislike=0
+title=3299元起！苹果二代iPhone SE正式发布：搭载A13，黑白红三色！,upname=Apple大爆炸,view=61477,danmaku=110,reply=499,favorite=134,coin=24,share=345,like=497,dislike=0
+title=荣耀30Pro+开箱！这银色闪瞎了眼！美的不像话！,upname=手毛科技,view=64180,danmaku=500,reply=432,favorite=78,coin=53,share=239,like=823,dislike=0
+title=60帧暴涨100帧,中端 低端 核显 3A大作优化指南！【干货向】,upname=阿狸才不是受,view=464075,danmaku=10962,reply=2739,favorite=17280,coin=19146,share=2418,like=31226,dislike=0
+title=装宽带运营商不会告诉你的几个秘密(一)，不要用运营商的光猫拨号,upname=沃靠,view=128806,danmaku=149,reply=665,favorite=2609,coin=686,share=217,like=2890,dislike=0
+title=荣耀30Pro+，一款颜值超高，并且惊喜不断的产品,upname=bonjour呼呼,view=61864,danmaku=1211,reply=740,favorite=206,coin=256,share=152,like=2075,dislike=0
