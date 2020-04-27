@@ -34,6 +34,7 @@
 /NA
 /NA
 /NA
+title=他们 死在了祖国胜利的前夜,upname=噩梦Crazy,view=7415123,danmaku=105837,reply=12695,favorite=513832,coin=798843,share=80819,like=778169,dislike=0
 /NA
 /NA
 /NA
@@ -82,7 +83,6 @@
 /NA
 /NA
 /NA
-title=饿殍遍地的贫民窟，印度封国的第二十七天,upname=印度胖亚瑟,view=1138029,danmaku=4274,reply=3383,favorite=7572,coin=27376,share=2761,like=90176,dislike=0
 /NA
 /NA
 /NA
