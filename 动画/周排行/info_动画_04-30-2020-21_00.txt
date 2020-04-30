@@ -9,7 +9,6 @@
 /NA
 /NA
 /NA
-title=【公主连结/MMD】佩可莉姆+可可萝+凯露★可爱组曲！,upname=进击的冰糖,view=183521,danmaku=821,reply=1253,favorite=13087,coin=7663,share=922,like=26337,dislike=0
 /NA
 /NA
 /NA
@@ -23,6 +22,7 @@ title=【公主连结/MMD】佩可莉姆+可可萝+凯露★可爱组曲！,upna
 /NA
 /NA
 /NA
+title=我愿称你为绝活！,upname=白小纯2019,view=635728,danmaku=3810,reply=820,favorite=13612,coin=19626,share=9532,like=44780,dislike=0
 /NA
 /NA
 /NA
