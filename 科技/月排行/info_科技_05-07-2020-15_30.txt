@@ -30,7 +30,6 @@
 /NA
 /NA
 /NA
-title=【全明星】我感觉到，全都回来了。,upname=猫头然的呆毛滨,view=940639,danmaku=6939,reply=2853,favorite=53769,coin=86884,share=5926,like=131034,dislike=0
 /NA
 /NA
 /NA
@@ -50,6 +49,7 @@ title=【全明星】我感觉到，全都回来了。,upname=猫头然的呆毛
 /NA
 /NA
 /NA
+title=在你生日那天，哈勃望远镜拍到了只属于你的星云。,upname=漫步君儿,view=585143,danmaku=33571,reply=4624,favorite=31727,coin=23774,share=7433,like=49932,dislike=0
 /NA
 /NA
 /NA

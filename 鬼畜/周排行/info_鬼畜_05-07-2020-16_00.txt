@@ -15,6 +15,7 @@
 /NA
 /NA
 /NA
+title=全部人都给我站起来！,upname=碧天蓝钻,view=423716,danmaku=3128,reply=1060,favorite=14901,coin=21487,share=3373,like=39980,dislike=0
 /NA
 /NA
 /NA
@@ -30,7 +31,6 @@
 /NA
 /NA
 /NA
-title=【全明星】我感觉到，全都回来了。,upname=猫头然的呆毛滨,view=940639,danmaku=6939,reply=2853,favorite=53769,coin=86884,share=5926,like=131034,dislike=0
 /NA
 /NA
 /NA
