@@ -3,7 +3,6 @@
 /NA
 /NA
 /NA
-title=俄罗斯硬核微电影——第一人称逃离丧尸医院！,upname=消瘦的浮云l,view=1108391,danmaku=18942,reply=1850,favorite=51627,coin=16722,share=24147,like=74073,dislike=0
 /NA
 /NA
 /NA
@@ -26,7 +25,6 @@ title=俄罗斯硬核微电影——第一人称逃离丧尸医院！,upname=消
 /NA
 /NA
 /NA
-title=建议改成:这TM不火天理难容,upname=就叫Akun_,view=510900,danmaku=2053,reply=937,favorite=31471,coin=43269,share=2723,like=59747,dislike=0
 /NA
 /NA
 /NA
@@ -96,5 +94,7 @@ title=建议改成:这TM不火天理难容,upname=就叫Akun_,view=510900,danmak
 /NA
 /NA
 /NA
+/NA
+title=【创造营2020】哇！原来这位姐就是之前网传的北大理科状元李丞汐啊！！来看看北大理科状元业务能力如何,upname=阿简哒,view=150378,danmaku=25,reply=166,favorite=165,coin=9,share=288,like=1200,dislike=0
 /NA
 /NA

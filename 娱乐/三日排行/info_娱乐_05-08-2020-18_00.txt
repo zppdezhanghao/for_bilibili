@@ -3,7 +3,6 @@
 /NA
 /NA
 /NA
-title=俄罗斯硬核微电影——第一人称逃离丧尸医院！,upname=消瘦的浮云l,view=1108391,danmaku=18942,reply=1850,favorite=51627,coin=16722,share=24147,like=74073,dislike=0
 /NA
 /NA
 /NA
@@ -26,7 +25,6 @@ title=俄罗斯硬核微电影——第一人称逃离丧尸医院！,upname=消
 /NA
 /NA
 /NA
-title=建议改成:这TM不火天理难容,upname=就叫Akun_,view=510900,danmaku=2053,reply=937,favorite=31471,coin=43269,share=2723,like=59747,dislike=0
 /NA
 /NA
 /NA
@@ -69,6 +67,8 @@ title=建议改成:这TM不火天理难容,upname=就叫Akun_,view=510900,danmak
 /NA
 /NA
 /NA
+/NA
+title=【创造营2020】创不是创！工具人导师加上一团乱的赛制等于一百分的节目？只看实力毫不拖拉？我们好好聊一聊！第一期复盘总结来啦！,upname=VK棒棒鸡,view=196111,danmaku=11082,reply=5074,favorite=1464,coin=4912,share=2293,like=8187,dislike=0
 /NA
 /NA
 /NA
